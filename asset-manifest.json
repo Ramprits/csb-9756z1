@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ramprits.github.io/csb-9756z1/static/css/main.d89fb328.chunk.css",
+    "main.js": "https://ramprits.github.io/csb-9756z1/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://ramprits.github.io/csb-9756z1/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://ramprits.github.io/csb-9756z1/static/js/runtime-main.238ad347.js",
+    "runtime-main.js.map": "https://ramprits.github.io/csb-9756z1/static/js/runtime-main.238ad347.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://ramprits.github.io/csb-9756z1/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://ramprits.github.io/csb-9756z1/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://ramprits.github.io/csb-9756z1/index.html",
+    "static/css/main.d89fb328.chunk.css.map": "https://ramprits.github.io/csb-9756z1/static/css/main.d89fb328.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://ramprits.github.io/csb-9756z1/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.238ad347.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.d89fb328.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
